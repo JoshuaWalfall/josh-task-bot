@@ -1,5 +1,5 @@
 const {SlashCommandBuilder} = require("discord.js");
-
+const Marvin = require("../../API/marvinCommands.js");
 async function joshAvailability() {
     //fetch('')
 }
